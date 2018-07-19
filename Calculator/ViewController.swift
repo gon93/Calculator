@@ -23,6 +23,7 @@ class ViewController: UIViewController {
     private var dotChk: Bool = false
     
     var test : String = ""
+    var test1 : String = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
